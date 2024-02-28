@@ -1,6 +1,6 @@
-# Todo Application
+# blogs Application
 
-Given an `app.js` file and an empty database file `todoApplication.db`.
+Given an `app.js` file and an empty database file `blogsApplication.db`.
 
 Create a table with the name `todo` with the following columns,
 
