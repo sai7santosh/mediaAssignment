@@ -4,16 +4,14 @@ Given an `app.js` file and an empty database file `blogsApplication.db`.
 
 Create a table with the name `todo` with the following columns,
 
-**Todo Table**
+**users Table**
 
 | Column   | Type    |
 | -------- | ------- |
-| id       | INTEGER |
-| todo     | TEXT    |
-| priority | TEXT    |
-| status   | TEXT    |
+| user_id       | INTEGER |
+| name    | TEXT    |
 
-and write APIs to perform operations on the table `todo`,
+and write APIs to perform operations on the table `users`,
 
 <MultiLineNote>
   
